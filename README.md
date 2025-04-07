@@ -15,43 +15,50 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
-Programming & Core Concepts
-<p align="left">
-<img src="https://img.shields.io/badge/
-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/
-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/
-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/
-Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-###
-Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/
-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/
-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/
-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /
-<img src="https://img.shields.io/badge/
-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/
-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-###
-Al & Machine Learning
-<p align="left" >
-<img src="https://img.shields.io/badge/
-Machine%20Learning-FF6FO0?style=for-the-badge&logo=m|flow&logoColor=white" />
-<img src="https://img.shields.io/badge/
-Deep%20Learning-FFO000?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/
-TensorFlow-FF6FOO?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-
-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-###
-目
-Large Language Models (LLMs)
-<p align="left">
-<img src="https://img.shields.io/badge/
-GPT-005571?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/
-BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/LLaMA-
-FF4500?S
+### Hi there, I'm Freeman Buernor 👋
+
+Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for combining **mathematics, statistics, and machine learning** to solve real-world problems. Whether it's predictive modeling, feature engineering, or building AI-powered applications, I love transforming ideas into impactful solutions.
+
+---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" />
+
+---
+
+### 📊 What I'm Working On
+- Building machine learning models for **financial forecasting and risk management**
+- Exploring **deep learning** with PyTorch & TensorFlow
+- Designing scalable **SQL-based data pipelines**
+- Researching **AI-powered product innovation** in distributed systems
+- Working on projects tailored for companies like **Couchbase, NVIDIA, and Blockhouse**
+
+---
+
+### ⚙️ My Technical Stack
+| Languages | Libraries / Frameworks | Tools / Platforms |
+|----------|------------------------|------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/> R | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/> TensorFlow <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/> PyTorch <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30"/> Keras <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="30"/> Scikit-learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/> NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="30"/> Seaborn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30"/> Matplotlib | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> Microsoft SQL Server <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30"/> Power BI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30"/> Tableau <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> Google Cloud <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="30"/> Excel <img src="https://img.icons8.com/color/48/000000/microsoft-office-365.png" width="30"/> Microsoft 365 <img src="https://img.icons8.com/fluency/48/snowflake.png" width="30"/> Snowflakes
+
+---
+
+### 🚀 Featured Projects
+- **MarketPulse AI**: LSTM-based price prediction system for forex & crypto markets
+- **EduPredict**: Engagement forecasting model for academic content (93% accuracy)
+- **Query Optimizer Audit**: SQL performance audit with runtime reduced by 30%
+
+---
+
+### 🧑‍💼 Let's Connect!
+- LinkedIn: [freeman-buernor-tee-881304214](https://www.linkedin.com/in/freeman-buernor-tee-881304214/)
+- Email: ftbuer26@colby.edu
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freemanbuernor&layout=compact&theme=tokyonight" />
+
+---
+
+### 🌟 Motto
+> "Solve complex problems with curiosity, code, and compassion."
+
+Thanks for visiting my GitHub ✨ Let's build something amazing together!
+
 
