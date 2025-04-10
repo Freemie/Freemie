@@ -52,12 +52,15 @@ Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for
 - LinkedIn: [freeman-buernor-tee-881304214](https://www.linkedin.com/in/freeman-buernor-tee-881304214/)
 - Email: ftbuer26@colby.edu
 
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freemanbuernor&layout=compact&theme=tokyonight" />
 
----
 
-### 🌟 Motto
-> "Solve complex problems with curiosity, code, and compassion."
+
+
+
+
 
 Thanks for visiting my GitHub ✨ Let's build something amazing together!
 
