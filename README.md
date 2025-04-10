@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for
 - Exploring **deep learning** with PyTorch & TensorFlow
 - Designing scalable **SQL-based data pipelines**
 - Researching **AI-powered product innovation** in distributed systems
-- Working on projects tailored for companies like **Couchbase, NVIDIA, and Blockhouse**
+- Working on projects tailored for companies 
 
 ---
 
