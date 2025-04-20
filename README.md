@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for
 ---
 
 ### 🧑‍💼 Let's Connect!
-- LinkedIn: [freeman-buernor-tee-881304214](https://www.linkedin.com/in/freeman-buernor-tee-881304214/)
+- LinkedIn: [freeman-buernor-tee-881304214](https://www.linkedin.com/in/ftbuernor
 - Email: ftbuer26@colby.edu
 
 
