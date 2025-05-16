@@ -54,11 +54,6 @@ Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freemanbuernor&layout=compact&theme=tokyonight" />
-
-
-
-
 
 
 
