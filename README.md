@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Freeman Buernor 👋
 
-Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for combining **statistics,data science and machine learning** to solve real-world problems. Whether it's predictive modeling, feature engineering, or building AI-powered applications, I love transforming ideas into impactful solutions.
+Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for combining **statistics, data science and machine learning** to solve real-world problems. Whether it's predictive modeling, feature engineering, or building AI-powered applications, I love transforming ideas into impactful solutions.
 
 ---
 
