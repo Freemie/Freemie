@@ -2,20 +2,17 @@
 
 Hi there, I'm Freeman Buernor 👋
 
-Welcome to my GitHub profile! I'm a data-driven explorer with a deep passion for combining **statistics, data science and machine learning** to solve real-world problems. Whether it's predictive modeling, feature engineering, or building AI-powered applications, I love transforming ideas into impactful solutions.
+Turning data into intelligent systems | DS + SWE
 
----
+Building production ML applications from scratch:
+- Real-time streaming analytics with <50ms latency
+- Recommendation systems serving 100K+ requests/day
+- Custom databases optimized for time series workloads
+
+🔍 Open to Data Science & Software Engineering opportunities
+📫 Freemanbuernor03@gmail.com | 📝 [portfolio - still in progress]
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="auto" />
-
----
-
-### 📊 What I'm Working On
-- Building machine learning models for **financial forecasting and risk management**
-- Exploring **deep learning** with PyTorch & TensorFlow
-- Designing scalable **SQL-based data pipelines**
-- Researching **AI-powered product innovation** in distributed systems
-- Working on projects tailored for companies 
 
 ---
 
