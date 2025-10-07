@@ -19,12 +19,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
 - 🛠️ Creating developer tools for ML operations
 - 🌱 Learning Rust for high-performance computing
 
-### 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=dark"/>
-</div>
 
 ### 🏗️ Featured Projects
 
@@ -112,17 +107,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
 ![D3.js](https://img.shields.io/badge/-D3.js-F68E56?style=flat-square&logo=d3.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 📊 This Week's Development Stats
 
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░  60.2%
-TypeScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░  20.5%
-Go           2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░  10.4%
-Docker       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░   5.2%
-YAML         45 mins         ░░░░░░░░░░░░░░░░░░░   3.7%
-```
-<!--END_SECTION:waka-->
 
 ### 🎯 Current Goals
 
@@ -132,15 +117,6 @@ YAML         45 mins         ░░░░░░░░░░░░░░░░░
 - [ ] Achieve 100% test coverage on all projects
 - [ ] Deploy projects with 99.9% uptime SLA
 
-### 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](link) in recommendation-api
-2. 💪 Opened PR [#15](link) in anomaly-detection
-3. 🗣 Commented on [#27](link) in document-intelligence
-4. ⭐ Starred [awesome-ml-ops](link)
-5. 📝 Published blog post: [Building Real-time ML Systems](link)
-<!--END_SECTION:activity-->
 
 
 
@@ -165,13 +141,6 @@ YAML         45 mins         ░░░░░░░░░░░░░░░░░
 | Languages | Libraries / Frameworks | Tools / Platforms |
 |----------|------------------------|------------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/> C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/> R | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/> TensorFlow <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/> PyTorch <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="30"/> Keras <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="30"/> Scikit-learn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30"/> NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/> Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="30"/> Seaborn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="30"/> Matplotlib | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/> SQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/> Microsoft SQL Server <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="30"/> Power BI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="30"/> Tableau <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"/> Google Cloud <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="30"/> Excel <img src="https://img.icons8.com/color/48/000000/microsoft-office-365.png" width="30"/> Microsoft 365 <img src="https://img.icons8.com/fluency/48/snowflake.png" width="30"/> Snowflakes
-
----
-
-### 🚀 Featured Projects
-- **MarketPulse AI**: LSTM-based price prediction system for forex & crypto markets
-- **EduPredict**: Engagement forecasting model for academic content (93% accuracy)
-- **Query Optimizer Audit**: SQL performance audit with runtime reduced by 30%
 
 ---
 
