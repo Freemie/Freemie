@@ -4,8 +4,8 @@
 # Hi there, I'm Freeman 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ftbuernor)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:freemanbuernor03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
 
 ## 🚀 Building Production ML Systems Where Data Science Meets Software Engineering
