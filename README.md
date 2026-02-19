@@ -8,25 +8,25 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:freemanbuernor03@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.com)
 
-## 🚀 Building Production ML Systems Where Data Science Meets Software Engineering
+##  Building Production ML Systems Where Data Science Meets Software Engineering
 
 I'm a Data Scientist and Software Engineer passionate about building scalable, production-ready ML systems and currently crafting end-to-end solutions that bridge the gap between research and real-world deployment.
 
-### 🎯 Current Focus
+###  Current Focus
 
-- 🔬 Building real-time ML pipelines with sub-100ms latency
-- 📊 Developing distributed systems for large-scale data processing
-- 🛠️ Creating developer tools for ML operations
-- 🌱 Learning Rust for high-performance computing
+-  Building real-time ML pipelines with sub-100ms latency
+-  Developing distributed systems for large-scale data processing
+-  Creating developer tools for ML operations
+-  Learning Rust for high-performance computing
 
 
 
-### 🏗️ Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🎯 Recommendation System API</h3>
+      <h3> Recommendation System API</h3>
       <a href="https://github.com/yourusername/recommendation-api">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=recommendation-api&theme=dark" />
       </a>
@@ -36,7 +36,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
       <code>FastAPI</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code>
     </td>
     <td align="center" width="50%">
-      <h3>📊 Anomaly Detection Platform</h3>
+      <h3> Anomaly Detection Platform</h3>
       <a href="https://github.com/yourusername/anomaly-detection">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anomaly-detection&theme=dark" />
       </a>
@@ -48,7 +48,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>📄 Document Intelligence</h3>
+      <h3> Document Intelligence</h3>
       <a href="https://github.com/yourusername/document-intelligence">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=document-intelligence&theme=dark" />
       </a>
@@ -58,7 +58,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
       <code>spaCy</code> <code>Tesseract</code> <code>Elasticsearch</code>
     </td>
     <td align="center" width="50%">
-      <h3>🗄️ Time Series Database</h3>
+      <h3> Time Series Database</h3>
       <a href="https://github.com/yourusername/tsdb">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=tsdb&theme=dark" />
       </a>
@@ -70,7 +70,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
   </tr>
 </table>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -121,7 +121,7 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
 
 
 <div align="center">
-  <i>Building the future, one model at a time 🚀</i>
+  <i>Building the future, one model at a time </i>
 </div>
 
 
@@ -147,10 +147,10 @@ I'm a Data Scientist and Software Engineer passionate about building scalable, p
 ### 💬 Let's Connect!
 
 I'm always interested in:
-- 🤝 Collaborating on ML/Data Science projects
-- 💡 Discussing system design and architecture
-- 📚 Sharing knowledge about production ML
-- 🚀 Opportunities in Data Science & Software Engineering
+-  Collaborating on ML/Data Science projects
+-  Discussing system design and architecture
+-  Sharing knowledge about production ML
+-  Opportunities in Data Science & Software Engineering
 
 Feel free to reach out if you want to discuss ML systems, collaborate on projects, or just have a tech chat!
 
